@@ -1,0 +1,8 @@
+### Needed for the pd.read_html function ###
+lxml
+html5lib
+
+###################################
+pandas
+bs4
+selenium
