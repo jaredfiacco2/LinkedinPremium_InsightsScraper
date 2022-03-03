@@ -6,4 +6,3 @@ html5lib
 pandas
 bs4
 selenium
-#
